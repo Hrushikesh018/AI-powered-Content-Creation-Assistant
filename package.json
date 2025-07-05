@@ -1,0 +1,21 @@
+{
+  "name": "mcp_tutorial",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@inngest/agent-kit": "^0.9.0",
+    "@types/node": "^24.0.10",
+    "dotenv": "^17.0.1",
+    "inngest": "^3.40.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
+    "zod": "^3.25.74"
+  }
+}
