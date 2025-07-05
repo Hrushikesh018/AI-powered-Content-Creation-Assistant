@@ -154,6 +154,24 @@ CREATE TABLE IF NOT EXISTS research_sources (
 | Deploy to cloud            | Deploy as ESM server to Vercel, Fly.io, or Cloudflare. Ensure `.env` is set correctly. |
 
 ---
+![image](https://github.com/user-attachments/assets/865242dc-917b-488f-beff-130bed4f2827)
+.........................................................................................
+![image](https://github.com/user-attachments/assets/ee973d8c-58d7-46ca-84c6-bf0381b29ac0)
+.........................................................................................
+![image](https://github.com/user-attachments/assets/86a04007-62a9-4401-b3a2-eec8e5affc97)
+.........................................................................................
+![image](https://github.com/user-attachments/assets/78b4c334-16e3-47a7-8610-36d181143e0a)
+.........................................................................................
+![image](https://github.com/user-attachments/assets/781a3009-7457-44cf-9245-eaf46360395c)
+.........................................................................................
+![image](https://github.com/user-attachments/assets/7bb382e4-8918-4079-9b13-4b2181beaf34)
+.........................................................................................
+![image](https://github.com/user-attachments/assets/7930046c-6479-4fc2-b07e-3b8d063b8f00)
+.........................................................................................
+![image](https://github.com/user-attachments/assets/47a08460-f3d6-4041-92ba-575e9fa66f9f)
+
+
+
 
 ## 📜 License
 
